@@ -39,7 +39,9 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
+    "cohere": "^1.1.1",
     "cohere-ai": "^7.13.1",
+    "dotenv": "^16.4.5",
     "vscode": "^1.1.34"
   }
 }
